@@ -21,5 +21,6 @@ system operacyjny Windows 10 lub 11
 - 3 - Pole wyświetlające wyniki
 # Jak wybrać punkty?
 Należy w programie qgis otworzyć plik z interesującymi nas punktami i zaznaczyć je przy pomocy narzędnia "Zaznacz obiekt"
-
+# Obsługa wtyczki
+Po zaznaczeniu interesujących nas punktów w programie qgis wchodzimy w okno "Wtyczki" --> "Projekt2" --> "Projekt2"
 
