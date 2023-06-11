@@ -17,7 +17,9 @@ system operacyjny Windows 10 lub 11
 ![image](https://github.com/adamsalanski/Wtyczka/assets/129080884/56ba3703-57d1-4d37-b2ac-3c7a74d2329a)
 
 - 1 - Pole obliczenia różnicy wysokości
-- 2 - Pole obliczenia pola powierzchni\n
-- 3 - Pole wyświetlające wyniki\n
+- 2 - Pole obliczenia pola powierzchni
+- 3 - Pole wyświetlające wyniki
+# Jak wybrać punkty?
+Należy w programie qgis otworzyć plik z interesującymi nas punktami i zaznaczyć je przy pomocy narzędnia "Zaznacz obiekt"
 
 
