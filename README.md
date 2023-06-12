@@ -22,7 +22,7 @@ system operacyjny Windows 10 lub 11
 # Jak wybrać punkty?
 Należy w programie qgis otworzyć plik z interesującymi nas punktami i zaznaczyć je przy pomocy narzędnia "Zaznacz obiekt"
 # Obsługa wtyczki
-Po ściągnięciu wszystkich plików do wtyczki należy umieścić je w folderze o nazwie wtyczka_as. 
+Po ściągnięciu wszystkich plików do wtyczki należy umieścić je w folderze o nazwie wtyczka_as 
 
 Po zaznaczeniu interesujących nas punktów w programie qgis wchodzimy w okno "Wtyczki" --> "Projekt2" --> "Projekt2" powinno nam się otworzyć okno z naszą wtyczką, teraz możemy skorzystać z opcji obliczenia różnicy wysokości lub pola powierzchni w tym celu wystarczy kliknąć na odpowiednio na przyciski "Policz_roznice_wysokosci" lub "Policz_pole" wynik pojawi się w oknie obok. Gdybyśmy jednak zaznaczyli zbyt małą ilość ponktów wyświetli się stosowny komunikat.
 # Znane błędy
