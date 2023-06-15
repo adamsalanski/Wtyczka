@@ -26,4 +26,4 @@ Po ściągnięciu wszystkich plików do wtyczki należy umieścić je w folderze
 
 Po zaznaczeniu interesujących nas punktów w programie qgis wchodzimy w okno "Wtyczki" --> "Projekt2" --> "Projekt2" powinno nam się otworzyć okno z naszą wtyczką, teraz możemy skorzystać z opcji obliczenia różnicy wysokości lub pola powierzchni w tym celu wystarczy kliknąć na odpowiednio na przyciski "Policz_roznice_wysokosci" lub "Policz_pole" wynik pojawi się w oknie obok. Gdybyśmy jednak zaznaczyli zbyt małą ilość ponktów wyświetli się stosowny komunikat.
 # Znane błędy
-- funkcja liczenia różnicy wysokości zadziała poprawnie wyłącznie ,gdy kolumny zawierające wartości id.X,Y,Z będą usytuowane w następującej kolejności id,X,Y,Z. w przeciwnym wypadku skrypt będzie pobierał niewłaściwe dane i tego nie udało nam się rozwiązać  
+- funkcja liczenia różnicy wysokości zadziała poprawnie wyłącznie ,gdy wartości wysokości bedą zlokalizowane w 2 kolumnie tabeli atrybutów, w przeciwnym wypadku skrypt będzie pobierał niewłaściwe dane i tego nie udało nam się rozwiązać  
