@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Wtyczka_AS" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
